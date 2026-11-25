@@ -9,7 +9,7 @@ Vim de quase 3 anos em crédito e finanças numa cooperativa, onde cuidei de car
 | Projeto | O que é | Stack |
 |---------|---------|-------|
 | [App Pokémon](https://github.com/RicardoJuliano/App_Pokemon) | Jogo de batalhas por turnos que funciona offline depois da primeira carga. [APK na aba Releases](https://github.com/RicardoJuliano/App_Pokemon/releases) | Kotlin, Compose, Room, Retrofit, Coroutines |
-| [StudyTasks](https://github.com/RicardoJuliano/StudyTaks) | Checklist de estudos com cache offline e API própria publicada | Kotlin, Compose, Room, Ktor, MongoDB, Docker |
+| [StudyTasks](https://github.com/RicardoJuliano/StudyTasks) | Checklist de estudos com cache offline e API própria publicada | Kotlin, Compose, Room, Ktor, MongoDB, Docker |
 | [CaixaPJ](https://github.com/RicardoJuliano/CaixaPJ) | Fluxo de caixa para pequenas empresas, em desenvolvimento, com meta de publicar na Google Play | Kotlin, Compose, Hilt, TDD |
 | [Touch Hero](https://github.com/RicardoJuliano/Touch-Hero) | Protótipo de jogo de ritmo com loop de jogo em Compose | Kotlin, Compose, Media3 |
 
