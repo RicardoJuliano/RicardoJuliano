@@ -20,9 +20,6 @@ Todos os READMEs dizem o que já funciona e o que ainda falta.
 - [Boutique Arco-Íris](https://github.com/RicardoJuliano/Boutique-Arco-ris): e-commerce fullstack com painel administrativo e consultora de estilo por IA (React, TypeScript, Node, PostgreSQL).
 - [Vende no Zap](https://github.com/RicardoJuliano/vende-no-zap): CRM leve em desenvolvimento (Next.js, Supabase).
 
-## Como trabalho
-
-Costumo construir em modo tutor com o Claude: eu escrevo o código, e a IA guia e revisa. Registro as decisões de cada projeto no README e nos arquivos de progresso.
 
 ## Contato
 
